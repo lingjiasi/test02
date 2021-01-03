@@ -6,6 +6,9 @@ class A
 	public sum(){
 		return a+b;
 	}
+	public min(){
+		return a-b;
+	}
  
 
 
