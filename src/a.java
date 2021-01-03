@@ -9,6 +9,9 @@ class A
 	public min(){
 		return a-b;
 	}
+	public mul(){
+		return a*b;
+	}
  
 
 
